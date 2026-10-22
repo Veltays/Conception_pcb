@@ -30,6 +30,9 @@ pas casser les chemins relatifs entre les fichiers Altium.
 - `Bibliotheques/AltiumCAOQ2_2023/AltiumCAOQ2_2023.LibPkg`
   - `Schlib1_2023.SchLib`
   - `PcbLib1_2023.PcbLib`
+- `Bibliotheques/1984617/`
+  - `1984617.SchLib`
+  - `1984617.PcbLib`
 - `AOP-1671IDBVR.PcbLib`
 - Les sources exportees presentes sous `AD26/Library/ExportIntLib/` sont aussi
   conservees. Les exemples, modeles et OutputJobs livres avec l'installation
