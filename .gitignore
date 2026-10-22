@@ -1,0 +1,37 @@
+# Altium Designer 26 - caches, history and machine-local state
+**/History/
+**/__Previews/
+**/CompareHistory/
+**/Project Logs*/
+**/Logs/
+
+# Re-creatable generated outputs
+**/Project Outputs*/
+*.IntLib
+*.PrjPcbStructure
+*.PrjMbdStructure
+*.PcbDoc.htm
+*.metadata
+*.ldb
+
+# Altium installation content (examples/templates are not user projects)
+/AD26/Examples/
+/AD26/OutputJobs/
+/AD26/Templates/
+/AD26/Library/PCB3D/
+/AD26/Library/ExportIntLib/**/*.zip
+
+# Backups of the former standalone Altium 365 repositories.
+# They remain local and can be restored, but are not nested active repositories.
+/.legacy-git/
+**/.git.altium365-backup/
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.bak
+*.lck
+~$*
+

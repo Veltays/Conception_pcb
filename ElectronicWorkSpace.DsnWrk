@@ -1,0 +1,14 @@
+[ProjectGroup]
+Version=1.0
+
+[Project1]
+ProjectPath=PCB_Project\MultiVibrateur.PrjPcb
+
+[Project2]
+ProjectPath=Library\First Integrated Library.LibPkg
+
+[Project3]
+ProjectPath=Amplificateur_Audio\PreAmpli.PrjPcb
+
+[Project4]
+ProjectPath=Bibliotheques\AltiumCAOQ2_2023\AltiumCAOQ2_2023.LibPkg
