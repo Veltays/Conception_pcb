@@ -205,6 +205,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGPTXSSI
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Projet_Finale\Design Rule Check - ProjetFinale.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
