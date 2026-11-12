@@ -53,23 +53,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=C:\Users\Public\Documents\Altium\Ampli_Class_D_Student_2023 - Yassine\PowerSupply.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YQWVETUS
-
-[Document2]
 DocumentPath=PreAmli.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -86,7 +69,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WEAXJHNY
 
-[Document3]
+[Document2]
 DocumentPath=01_PreAmpli\PreAmpli.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -103,7 +86,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TXTNYRUG
 
-[Document4]
+[Document3]
 DocumentPath=PreAmpli.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,7 +103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,7 +120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=C:\Users\Public\Documents\Altium\Ampli_Class_D_Student_2023 -Yassine Copy2\PowerStage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -154,7 +137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXQWPRYT
 
-[Document7]
+[Document6]
 DocumentPath=C:\Users\Public\Documents\Altium\Ampli_Class_D_Student_2023 -Yassine Copy2\Audi_In.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,6 +153,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLEXAKMN
+
+[Document7]
+DocumentPath=C:\Users\Public\Documents\Altium\Ampli_Class_D_Student_2023 -Yassine Copy2\PowerSupply.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YQWVETUS
 
 [Document8]
 DocumentPath=TopLevel.SchDoc
